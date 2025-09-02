@@ -1,0 +1,12 @@
+
+streamlit
+pandas
+openpyxl
+scikit-learn
+matplotlib
+python-dateutil
+pytest
+pre-commit
+black
+isort
+flake8
